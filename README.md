@@ -20,15 +20,12 @@
 - [Charles](https://github.com/Rust-SR/Hard_skills/tree/main/Charles_HW)
 - [Jmeter](https://github.com/Rust-SR/Hard_skills/tree/main/Jmeter_hw)
 - [Video about DevTools in Chrome](https://youtu.be/-bNbtkU_bhM)
-
-
-<!-- BLOG-POST-LIST:END -->
-
 - [My example of checklist](https://github.com/Rust-SR/Hard_skills/blob/main/Test%20cases%2C%20check%20lists%2C%20bug%20reports/itcareer.pythonanywhere.com%20-%20%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82%20%D1%81%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.pdf)
 - [My example of bug report](https://github.com/Rust-SR/Hard_skills/blob/main/Test%20cases%2C%20check%20lists%2C%20bug%20reports/%D0%91%D0%B0%D0%B3%20%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%20%E2%84%96%201.pdf)
 
+<!-- BLOG-POST-LIST:END -->
 
- 
+
  ### Tools:
 
 <div align="left">
